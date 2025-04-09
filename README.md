@@ -24,7 +24,7 @@ Right now I’m working on:
 
 I’m also interested in (or have previously worked on):
 
-- 🧬 **Model Merging**: [MASS](https://arxiv.org/abs/2504.05342)
+- 🧬 **Model Merging** (See my last work [MASS](https://arxiv.org/abs/2504.05342)!)
 - 🎲 Deep Learning and games
 - 🧮 Neural Tangent Kernel
 
