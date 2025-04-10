@@ -24,9 +24,12 @@ Right now I’m working on:
 
 I’m also interested in (or have previously worked on):
 
-- 🧬 **Model Merging** (See my last work [MASS](https://arxiv.org/abs/2504.05342)!)
+- 🧬 **Model Merging**  
+  Explore my work on model merging through my latest project MASS:  
+  - [Paper](https://arxiv.org/abs/2504.05342)  
+  - [Repo](https://github.com/crisostomi/mass)  
 - 🎲 Deep Learning and games
 - 🧮 Neural Tangent Kernel
 
-Throughout my degree, I’ve been involved in a variety of projects—feel free to explore my repositories and reach out if something catches your eye. I’m always happy to connect and collaborate!
+Throughout my degree, I’ve been involved in a variety of projects. Explore my repositories and reach out if something catches your eye. I’m always happy to connect and collaborate!
 
