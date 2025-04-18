@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I’m Alessandro Zirilli
 
-I’m a second-year Master’s student in Computer Science at **Sapienza University of Rome 🇮🇹**, currently doing my Erasmus at **TUM 🇩🇪**.
+**I’m Alessandro Zirilli**, a second-year Master’s student in Computer Science at **Sapienza University of Rome 🇮🇹**, currently doing my Erasmus at **TUM 🇩🇪**.
 
 
 ### 🔬 Current Focus
@@ -25,7 +24,7 @@ I’m a second-year Master’s student in Computer Science at **Sapienza Univers
 
 ### 🔍 Past & Ongoing Interests
 - 🧬 **Model Merging**  
-  Check out my latest project **MASS** (Model-Agnostic Subspace Stitching):  
+  Check out my latest project **MASS**:  
   - [📄 Paper on arXiv](https://arxiv.org/abs/2504.05342)  
   - [💻 GitHub Repo](https://github.com/crisostomi/mass)
 
