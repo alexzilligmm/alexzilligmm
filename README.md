@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-**I’m Alessandro Zirilli**, a second-year Master’s student in Computer Science at **Sapienza University of Rome 🇮🇹**, currently doing my Erasmus at **TUM 🇩🇪**.
+**👋 I’m Alessandro Zirilli**, a second-year Master’s student in Computer Science at **Sapienza University of Rome 🇮🇹**, currently doing my Erasmus at **TUM 🇩🇪**.
 
 
 ### 🔬 Current Focus
