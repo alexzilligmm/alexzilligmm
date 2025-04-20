@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 - 🧮 Neural Tangent Kernel
 
 
-### 📚 Publications & Academic Profile  
+### 📚 Profiles
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=googlescholar)](https://scholar.google.com/citations?user=Y2_3IKgAAAAJ&hl=it)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/alessandro-zirilli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/alessandro-zirilli)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-brightgreen?logo=researchgate)](https://www.researchgate.net/profile/Alessandro-Zirilli?ev=hdr_xprf)  
+[![X](https://img.shields.io/badge/X%20(formerly%20Twitter)-Profile-black?logo=twitter)](https://x.com/alexzilligmm/likes)
 
 
 Feel free to browse my [GitHub](https://github.com/) for projects, or reach out if you'd like to collaborate!
