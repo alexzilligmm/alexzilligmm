@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 
 ### 🔍 Past & Ongoing Interests
-- 🧬 **Model Merging**  
+- **Model Merging**  
   Check out my latest project **MASS**:  
   - [📄 Paper on arXiv](https://arxiv.org/abs/2504.05342)  
   - [💻 GitHub Repo](https://github.com/crisostomi/mass)
 
-- 🎲 Deep Learning & Games  
-- 🧮 Neural Tangent Kernel
+- Deep Learning & Games  
+- Neural Tangent Kernel
 
 
 Feel free to browse my [GitHub](https://github.com/) for projects, or reach out if you'd like to collaborate!
