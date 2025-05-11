@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 - Neural Tangent Kernel
 
 
-Feel free to browse my [GitHub](https://github.com/) for projects, or reach out if you'd like to collaborate!
+Feel free to browse my [GitHub](https://github.com/) for projects, or [reach out](https://alessandrozirilli.com) if you'd like to collaborate!
 
