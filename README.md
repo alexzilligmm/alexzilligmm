@@ -19,19 +19,12 @@ Here are some ideas to get you started:
 [![X](https://img.shields.io/badge/X%20(formerly%20Twitter)-Profile-black?logo=twitter)](https://x.com/alexzilligmm/likes)
 [![Website](https://img.shields.io/badge/Website-alessandrozirilli.com-orange?logo=about-dot-me)](https://www.alessandrozirilli.com)
 
-**👋 I’m Alessandro Zirilli**, a second-year Master’s student in Computer Science at **Sapienza University of Rome 🇮🇹**, currently doing my Erasmus at **TUM 🇩🇪**.
-
-
-### 🔬 Current Focus
-- 🏞️ **Image Segmentation**, working with **SAM1** and **SAM2**
-
+**👋 I’m Alessandro Zirilli**, a second-year Master’s student in Computer Science at **Sapienza University of Rome 🇮🇹**, during which a spent one year at **Technische Universität München 🇩🇪** as exchange student, and where I did my thesis research.
 
 ### 🔍 Past & Ongoing Interests
+- **Image Segmentation** with **SAM2**
 - **Model Merging**  
-  Check out my latest project **MASS**:  
-  - [📄 Paper on arXiv](https://arxiv.org/abs/2504.05342)  
-  - [💻 GitHub Repo](https://github.com/crisostomi/mass)
-
+  Check out my latest [📄 Paper](https://arxiv.org/abs/2504.05342)  
 - Deep Learning & Games  
 - Neural Tangent Kernel
 
