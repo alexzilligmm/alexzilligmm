@@ -7,10 +7,10 @@
 **👋 I’m Alessandro Zirilli**, a second-year Master’s student in Computer Science at **Sapienza University of Rome 🇮🇹**. I spent a year at **Technische Universität München 🇩🇪** as an exchange student, where I also conducted my thesis research.
 
 ### 🔍 Interests
-- **FHE** for private deep learning. [📄 Papar](https://arxiv.org/pdf/2609.01730)
-- **Model Merging**  
-  Check out my latest [📄 Paper](https://arxiv.org/abs/2504.05342)
-
+- **FHE** for private deep learning. [📄 HEAT](https://arxiv.org/pdf/2609.01730)
+- **Model Merging** check out my latest [📄 MASS](https://arxiv.org/abs/2504.05342)
+- **Quantization**, contributing to [📄 QV vectors](https://arxiv.org/pdf/2604.03420)
+I also worked on:
 - **Image Segmentation** with **SAM2**
 - Deep Learning & Games  
 - Neural Tangent Kernel
