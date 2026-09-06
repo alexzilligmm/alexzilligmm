@@ -10,6 +10,7 @@
 - **FHE** for private deep learning. [📄 HEAT](https://arxiv.org/pdf/2609.01730)
 - **Model Merging** check out my latest [📄 MASS](https://arxiv.org/abs/2504.05342)
 - **Quantization**, contributing to [📄 QV vectors](https://arxiv.org/pdf/2604.03420)
+  
 I also worked on:
 - **Image Segmentation** with **SAM2**
 - Deep Learning & Games  
